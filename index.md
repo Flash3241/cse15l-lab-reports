@@ -3,9 +3,9 @@ Hello yall
 **hello**
 # Hello
 ## hello
-*list
-*list
-*list
+* list
+* list
+* list
 1. one
 2. two
 3. three
