@@ -10,4 +10,4 @@ Hello yall
 2. two
 3. three
 ---
-[link] (https://knowyourmeme.com/memes/doge)
+https://knowyourmeme.com/memes/doge
